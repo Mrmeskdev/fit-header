@@ -32,8 +32,14 @@ fieldset{
     font-size: 10px;
    }
 .text{
+    display: flex;
     color: rgb(29, 76, 137);
     margin-top: 100px;
     margin-left: 300px;
-
+}
+.lorem{
+    color:rgb(29, 76, 137) ;
+    width: 50vw;
+    margin-left: 500px;
+    margin-top: -200px;
 }

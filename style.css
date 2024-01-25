@@ -1,0 +1,30 @@
+fieldset{
+    height: 40px;
+    background-color: rgb(29, 76, 137);
+}
+.qqr{
+    display: flex;
+    color: white;
+}
+.unb{
+    margin-top: 8px;
+    color: white;
+}
+.p1{
+   
+    font-size: x-small;
+    margin-top: 2px;
+    margin-left: 20px;
+}
+    .box{
+    background-color: orange;
+    width: 60px;
+    height: 30px;
+    
+    color: white;
+    margin-left: 900px;
+}
+.p2{
+    margin-top: 3px;
+    font-size: 10px;
+}
